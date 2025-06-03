@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Color Palette",
+    "type": "color_palette",
+    "description": "Application color scheme. Color4 is designated as the primary color; other colors serve as secondary or accent colors.",
+    "relativePath": "assets_library/color/color_palette.json",
+    "palette": {
+      "yellow": {
+        "yellow1": "#FCF4E4",
+        "yellow2": "#FFDC83",
+        "yellow3": "#FFCF56",
+        "yellow4": "#FFBA07",
+        "yellow5": "#D68100",
+        "yellow6": "#995200"
+      },
+      "orange": {
+        "orange1": "#FFE9D0",
+        "orange2": "#FFCDA2",
+        "orange3": "#FF9F6C",
+        "orange4": "#FF7E3B",
+        "orange5": "#DA5107",
+        "orange6": "#9E2F00"
+      },
+      "purple": {
+        "purple1": "#FDEAFA",
+        "purple2": "#EBBDEC",
+        "purple3": "#F19FF3",
+        "purple4": "#ED0CEF",
+        "purple5": "#8D33B2",
+        "purple6": "#850FB6"
+      },
+      "green": {
+        "green1": "#DCFF54",
+        "green2": "#AFEBCB",
+        "green3": "#71DF96",
+        "green4": "#3DD771",
+        "green5": "#49A53",
+        "green6": "#005E2C"
+      },
+      "blue": {
+        "blue1": "#ECF8FF",
+        "blue2": "#8DD5F1",
+        "blue3": "#52C8F5",
+        "blue4": "#1EB5F0",
+        "blue5": "#0A8005",
+        "blue6": "#0A47C2"
+      },
+      "grey": {
+        "grey1": "#F6F6F6",
+        "grey2": "#E0E0E0",
+        "grey3": "#B3B3B3",
+        "grey4": "#808080",
+        "black75": "#282B2B",
+        "black": "#2B2B2B"
+      },
+      "white": {
+        "white18": "#FFFFFF",
+        "white30": "#FFFFFF",
+        "white70": "#FFFFFF",
+        "white": "#FFFFFF"
+      },
+      "other": {
+        "red": "#",
+        "zBlack": "#000000"
+      }
+    }
+  },
+  {
+    "title": "Assets library",
+    "type": "directory",
+    "assets": [
+      {
+        "title": "Backgrounds",
+        "type": "subdirectory",
+        "assets": [
+          {
+            "title": "Circus 1",
+            "description": "A background image depicting a Circus 1 scene, suitable for creating immersive environments in simulations.",
+            "relativePath": "assets_library/backgrounds/Circus-1.svg",
+            "type": "svg_background"
+          },
+          {
+            "title": "Kitchen 3",
+            "description": "A background image depicting a Kitchen 3 scene, suitable for creating immersive environments in simulations.",
+            "relativePath": "assets_library/backgrounds/Kitchen 3.png",
+            "type": "image_background"
+          },
+          {
+            "title": "Kitchen 3",
+            "description": "A background image depicting a Kitchen 3 scene, suitable for creating immersive environments in simulations.",
+            "relativePath": "assets_library/backgrounds/Kitchen 3.svg",
+            "type": "svg_background"
+          },
+          {
+            "title": "Picnic",
+            "description": "A background image depicting a Picnic scene, suitable for creating immersive environments in simulations.",
+            "relativePath": "assets_library/backgrounds/Picnic.svg",
+            "type": "svg_background"
+          },
+          {
+            "title": "Bg1",
+            "description": "A background image depicting a bg1 scene, suitable for creating immersive environments in simulations.",
+            "relativePath": "assets_library/backgrounds/bg1.svg",
+            "type": "svg_background"
+          },
+          {
+            "title": "Forrest",
+            "description": "A background image depicting a forrest scene, suitable for creating immersive environments in simulations.",
+            "relativePath": "assets_library/backgrounds/forrest.svg",
+            "type": "svg_background"
+          }
+        ]
+      },
+      {
+        "title": "Buttons",
+        "type": "subdirectory",
+        "assets": [
+          {
+            "title": "Disabled",
+            "description": "A disabled button (48px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_48_px/disabled.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Hover",
+            "description": "A hover button (48px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_48_px/hover.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Primary",
+            "description": "A primary button (48px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_48_px/primary.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Secondary",
+            "description": "A secondary button (48px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_48_px/secondary.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Disabled",
+            "description": "A disabled button (56px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_56_px/disabled.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Hover",
+            "description": "A hover button (56px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_56_px/hover.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Primary",
+            "description": "A primary button (56px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_56_px/primary.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Secondary",
+            "description": "A secondary button (56px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_56_px/secondary.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Disabled",
+            "description": "A disabled button (64px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_64_px/disabled.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Hover",
+            "description": "A hover button (64px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_64_px/hover.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Primary",
+            "description": "A primary button (64px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_64_px/primary.svg",
+            "type": "svg_button"
+          },
+          {
+            "title": "Secondary",
+            "description": "A secondary button (64px) used for user interaction in the interface.",
+            "relativePath": "assets_library/buttons/size_64_px/secondary.svg",
+            "type": "svg_button"
+          }
+        ]
+      },
+      {
+        "title": "Fonts",
+        "type": "subdirectory",
+        "assets": [
+          {
+            "title": "Athletics Black",
+            "description": "Font: Athletics, Style: Black",
+            "relativePath": "assets_library/fonts/Athletics/Athletics Black/Athletics-Black.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics BlackItalic",
+            "description": "Font: Athletics, Style: BlackItalic",
+            "relativePath": "assets_library/fonts/Athletics/Athletics Black Italic/Athletics-BlackItalic.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics Bold",
+            "description": "Font: Athletics, Style: Bold",
+            "relativePath": "assets_library/fonts/Athletics/Athletics Bold/Athletics-Bold.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics BoldItalic",
+            "description": "Font: Athletics, Style: BoldItalic",
+            "relativePath": "assets_library/fonts/Athletics/Athletics Bold Italic/Athletics-BoldItalic.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics ExtraBold",
+            "description": "Font: Athletics, Style: ExtraBold",
+            "relativePath": "assets_library/fonts/Athletics/Athletics ExtraBold/Athletics-ExtraBold.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics ExtraBoldItalic",
+            "description": "Font: Athletics, Style: ExtraBoldItalic",
+            "relativePath": "assets_library/fonts/Athletics/Athletics ExtraBold Italic/Athletics-ExtraBoldItalic.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics Italic",
+            "description": "Font: Athletics, Style: Italic",
+            "relativePath": "assets_library/fonts/Athletics/Athletics Italic/Athletics-Italic.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics Light",
+            "description": "Font: Athletics, Style: Light",
+            "relativePath": "assets_library/fonts/Athletics/Athletics Light/Athletics-Light.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics LightItalic",
+            "description": "Font: Athletics, Style: LightItalic",
+            "relativePath": "assets_library/fonts/Athletics/Athletics Light Italic/Athletics-LightItalic.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics Medium",
+            "description": "Font: Athletics, Style: Medium",
+            "relativePath": "assets_library/fonts/Athletics/Athletics Medium/Athletics-Medium.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics MediumItalic",
+            "description": "Font: Athletics, Style: MediumItalic",
+            "relativePath": "assets_library/fonts/Athletics/Athletics Medium Italic/Athletics-MediumItalic.otf",
+            "type": "font"
+          },
+          {
+            "title": "Athletics Regular",
+            "description": "Font: Athletics, Style: Regular",
+            "relativePath": "assets_library/fonts/Athletics/Athletics Regular/Athletics-Regular.otf",
+            "type": "font"
+          },
+          {
+            "title": "UntitledSansApp Medium",
+            "description": "Font: UntitledSansApp, Style: Medium",
+            "relativePath": "assets_library/fonts/UntitledSans/UntitledSansApp-Medium.ttf",
+            "type": "font"
+          },
+          {
+            "title": "UntitledSansApp Regular",
+            "description": "Font: UntitledSansApp, Style: Regular",
+            "relativePath": "assets_library/fonts/UntitledSans/UntitledSansApp-Regular.ttf",
+            "type": "font"
+          }
+        ]
+      },
+      {
+        "title": "Input fields",
+        "type": "subdirectory",
+        "assets": [
+          {
+            "title": "Checked Off",
+            "description": "An checkbox input field in checked off state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/checkbox/checked_off.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Checked On",
+            "description": "An checkbox input field in checked on state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/checkbox/checked_on.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Mixed Off",
+            "description": "An checkbox input field in mixed off state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/checkbox/mixed_off.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Mixed On",
+            "description": "An checkbox input field in mixed on state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/checkbox/mixed_on.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Unchecked Off",
+            "description": "An checkbox input field in unchecked off state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/checkbox/unchecked_off.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Unchecked On",
+            "description": "An checkbox input field in unchecked on state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/checkbox/unchecked_on.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Disabled",
+            "description": "An dropdown input field in disabled state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/dropdown/disabled.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Error",
+            "description": "An dropdown input field in error state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/dropdown/error.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Non Editable",
+            "description": "An dropdown input field in non editable state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/dropdown/non-editable.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Success",
+            "description": "An dropdown input field in success state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/dropdown/success.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Disabled",
+            "description": "An switch input field in disabled state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/switch/disabled.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Off",
+            "description": "An switch input field in off state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/switch/off.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "On",
+            "description": "An switch input field in on state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/switch/on.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Default",
+            "description": "An text input field in default state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/text/default.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Filled",
+            "description": "An text input field in filled state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/text/filled.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Hover",
+            "description": "An text input field in hover state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/text/hover.svg",
+            "type": "svg_input"
+          },
+          {
+            "title": "Typing",
+            "description": "An text input field in typing state for user data entry and form interaction.",
+            "relativePath": "assets_library/input_fields/text/typing.svg",
+            "type": "svg_input"
+          }
+        ]
+      },
+      {
+        "title": "Navigation",
+        "type": "subdirectory",
+        "assets": [
+          {
+            "title": "Back Default",
+            "description": "A navigation control for back default interaction, used for moving between screens or sections.",
+            "relativePath": "assets_library/navigation/back_default.svg",
+            "type": "svg_navigation"
+          },
+          {
+            "title": "Back Hover",
+            "description": "A navigation control for back hover interaction, used for moving between screens or sections.",
+            "relativePath": "assets_library/navigation/back_hover.svg",
+            "type": "svg_navigation"
+          },
+          {
+            "title": "Next Default",
+            "description": "A navigation control for next default interaction, used for moving between screens or sections.",
+            "relativePath": "assets_library/navigation/next_default.svg",
+            "type": "svg_navigation"
+          },
+          {
+            "title": "Next Hover",
+            "description": "A navigation control for next hover interaction, used for moving between screens or sections.",
+            "relativePath": "assets_library/navigation/next_hover.svg",
+            "type": "svg_navigation"
+          }
+        ]
+      }
+    ]
+  }
+]

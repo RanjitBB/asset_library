@@ -1,0 +1,62 @@
+{
+    "palette": {
+      "yellow": {
+        "yellow1": "#FCF4E4",
+        "yellow2": "#FFDC83",
+        "yellow3": "#FFCF56",
+        "yellow4": "#FFBA07",
+        "yellow5": "#D68100",
+        "yellow6": "#995200"
+      },
+      "orange": {
+        "orange1": "#FFE9D0",
+        "orange2": "#FFCDA2",
+        "orange3": "#FF9F6C",
+        "orange4": "#FF7E3B",
+        "orange5": "#DA5107",
+        "orange6": "#9E2F00"
+      },
+      "purple": {
+        "purple1": "#FDEAFA",
+        "purple2": "#EBBDEC",
+        "purple3": "#F19FF3",
+        "purple4": "#ED0CEF",
+        "purple5": "#8D33B2",
+        "purple6": "#850FB6"
+      },
+      "green": {
+        "green1": "#DCFF54",
+        "green2": "#AFEBCB",
+        "green3": "#71DF96",
+        "green4": "#3DD771",
+        "green5": "#49A53",
+        "green6": "#005E2C"
+      },
+      "blue": {
+        "blue1": "#ECF8FF",
+        "blue2": "#8DD5F1",
+        "blue3": "#52C8F5",
+        "blue4": "#1EB5F0",
+        "blue5": "#0A8005",
+        "blue6": "#0A47C2"
+      },
+      "grey": {
+        "grey1": "#F6F6F6",
+        "grey2": "#E0E0E0",
+        "grey3": "#B3B3B3",
+        "grey4": "#808080",
+        "black75": "#282B2B",
+        "black": "#2B2B2B"
+      },
+      "white": {
+        "white18": "#FFFFFF",
+        "white30": "#FFFFFF",
+        "white70": "#FFFFFF",
+        "white": "#FFFFFF"
+      },
+      "other": {
+        "red": "#",
+        "zBlack": "#000000"
+      }
+    }
+  }
